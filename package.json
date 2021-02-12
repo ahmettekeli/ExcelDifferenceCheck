@@ -1,0 +1,28 @@
+{
+  "name": "excel-difference-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmettekeli/ExcelDifferenceCheck.git"
+  },
+  "keywords": [
+    "excel",
+    "differece",
+    "check",
+    "compare"
+  ],
+  "author": "ahmet tekeli <ahmettekeli1991@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmettekeli/ExcelDifferenceCheck/issues"
+  },
+  "homepage": "https://github.com/ahmettekeli/ExcelDifferenceCheck#readme",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
