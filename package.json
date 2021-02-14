@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ahmettekeli/ExcelDifferenceCheck#readme",
   "dependencies": {
+    "node-xlsx": "^0.16.1",
     "xlsx": "^0.16.9"
   }
 }
